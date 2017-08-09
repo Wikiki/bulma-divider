@@ -1,15 +1,17 @@
 $divider-background-color: $grey-lighter !default
+$divider-font-size: $size-7 !default
+$divider-color: $grey-light !default
 
 .divider, .divider-vert
   display: block
   position: relative
 
 .divider[data-content]::after, .divider-vert[data-content]::after
-  background: #fff
-  color: #e7e9ed
+  background: transparent
+  color: $divider-color
   content: attr(data-content)
   display: inline-block
-  font-size: $size-7
+  font-size: $divider-font-size
   padding: 0 .8rem
   -webkit-transform: translateY(-1.1rem)
   -ms-transform: translateY(-1.1rem)
