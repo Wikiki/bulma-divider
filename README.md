@@ -2,12 +2,16 @@
 Bulma's extension to easily display an horizontal or vertical divider
 (find all my bulma's extensions [here](https://github.com/Wikiki/bulma-extensions))
 
+<img src="https://img4.hostingpics.net/pics/552370ScreenShot20170809at203028.png">
+
 Usage
 -----
 
 ```html
 <div class="divider"></div>
+
 <div class="divider" data-content="OR"></div>
+
 <div class="columns">
   <div class="column">
     <form>
@@ -30,7 +34,9 @@ Usage
       </div>
     </form>
   </div>
+
   <div class="divider-vert" data-content="OR"></div>
+
   <div class="column">
     <form>
       <div class="form-group">
