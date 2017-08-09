@@ -8,9 +8,9 @@ Usage
 -----
 
 ```html
-<div class="divider"></div>
+<div class="is-divider"></div>
 
-<div class="divider" data-content="OR"></div>
+<div class="is-divider" data-content="OR"></div>
 
 <div class="columns">
   <div class="column">
@@ -35,7 +35,7 @@ Usage
     </form>
   </div>
 
-  <div class="divider-vert" data-content="OR"></div>
+  <div class="is-divider-vertical" data-content="OR"></div>
 
   <div class="column">
     <form>

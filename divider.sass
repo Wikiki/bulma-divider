@@ -2,11 +2,11 @@ $divider-background-color: $grey-lighter !default
 $divider-font-size: $size-7 !default
 $divider-color: $grey-light !default
 
-.divider, .divider-vert
+.is-divider, .is-divider-vertical
   display: block
   position: relative
 
-.divider[data-content]::after, .divider-vert[data-content]::after
+.is-divider[data-content]::after, .is-divider-vertical[data-content]::after
   background: transparent
   color: $divider-color
   content: attr(data-content)
@@ -18,13 +18,13 @@ $divider-color: $grey-light !default
   transform: translateY(-1.1rem)
   text-align: center
 
-.divider
+.is-divider
   border-top: .1rem solid $divider-background-color
   height: .1rem
   margin: 2rem 0
   text-align: center
 
-.divider-vert
+.is-divider-vertical
   display: block
   padding: 2rem
   position: relative
