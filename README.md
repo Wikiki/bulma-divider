@@ -10,4 +10,4 @@ Bulma's extension to easily display an horizontal or vertical divider
 
 Documentation & Demo
 ---
-You can find the Documentation and a demo [here](https://wikiki.github.io/bulma-extensions/divider)
+You can find the Documentation and a demo [here](https://wikiki.github.io/layout/divider/)
