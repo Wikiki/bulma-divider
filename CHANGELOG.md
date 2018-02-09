@@ -1,3 +1,19 @@
+<a name="0.1.4"></a>
+## [0.1.4](https://github.com/Wikiki/bulma-divider/compare/v0.1.0...v0.1.4) (2018-02-09)
+
+
+### Bug Fixes
+
+* **bower:** Add missing version ([e359b1d](https://github.com/Wikiki/bulma-divider/commit/e359b1d))
+
+
+### Features
+
+* **gulp:** Add gulp dependencies ([11b1913](https://github.com/Wikiki/bulma-divider/commit/11b1913))
+* **gulp:** Add release task ([5774cbf](https://github.com/Wikiki/bulma-divider/commit/5774cbf))
+
+
+
 <a name="0.1.3"></a>
 ## [0.1.3](https://github.com/Wikiki/bulma-divider/compare/v0.1.0...v0.1.3) (2018-02-09)
 
