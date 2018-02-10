@@ -1,3 +1,13 @@
+<a name="0.1.7"></a>
+## [0.1.7](https://github.com/Wikiki/bulma-divider/compare/0.1.6...0.1.7) (2018-02-10)
+
+
+### Bug Fixes
+
+* **gulp:** Use UMD modules style ([d2a5ada](https://github.com/Wikiki/bulma-divider/commit/d2a5ada))
+
+
+
 <a name="0.1.6"></a>
 ## [0.1.6](https://github.com/Wikiki/bulma-divider/compare/v0.1.0...v0.1.6) (2018-02-10)
 

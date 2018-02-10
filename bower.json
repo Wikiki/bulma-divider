@@ -2,7 +2,7 @@
   "name": "bulma-divider",
   "description": "Display a vertical or horizontal divider to segment your design.",
   "main": "divider.sass",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "authors": [
     "Wikiki <wikiki@protonmail.com> (https://wikiki.github.io/bulma-extensions/overview)"
   ],
