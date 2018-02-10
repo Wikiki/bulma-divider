@@ -1,3 +1,21 @@
+<a name="0.1.6"></a>
+## [0.1.6](https://github.com/Wikiki/bulma-divider/compare/v0.1.0...v0.1.6) (2018-02-10)
+
+
+### Bug Fixes
+
+* **bower:** Add missing version ([e359b1d](https://github.com/Wikiki/bulma-divider/commit/e359b1d))
+* **package:** Correct file path ([bc763a6](https://github.com/Wikiki/bulma-divider/commit/bc763a6))
+* **travis:** Remove configuration ([f165c5b](https://github.com/Wikiki/bulma-divider/commit/f165c5b))
+
+
+### Features
+
+* **gulp:** Add gulp dependencies ([11b1913](https://github.com/Wikiki/bulma-divider/commit/11b1913))
+* **gulp:** Add release task ([5774cbf](https://github.com/Wikiki/bulma-divider/commit/5774cbf))
+
+
+
 <a name="0.1.5"></a>
 ## [0.1.5](https://github.com/Wikiki/bulma-divider/compare/v0.1.0...v0.1.5) (2018-02-10)
 

@@ -1,6 +1,6 @@
 {
   "name": "bulma-divider",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Display a vertical or horizontal divider to segment your design. ",
   "main": "dist/bulma-divider.sass",
   "scripts": {
