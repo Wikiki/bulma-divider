@@ -1,3 +1,8 @@
+<a name="1.0.4"></a>
+## [1.0.4](https://github.com/Wikiki/bulma-divider/compare/1.0.3...1.0.4) (2018-05-11)
+
+
+
 <a name="1.0.3"></a>
 ## [1.0.3](https://github.com/Wikiki/bulma-divider/compare/1.0.1...1.0.3) (2018-05-11)
 
