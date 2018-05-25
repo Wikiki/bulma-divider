@@ -1,3 +1,13 @@
+<a name="1.0.5"></a>
+## [1.0.5](https://github.com/Wikiki/bulma-divider/compare/1.0.4...1.0.5) (2018-05-25)
+
+
+### Bug Fixes
+
+* vertical divider ([a80281a](https://github.com/Wikiki/bulma-divider/commit/a80281a)), closes [#9](https://github.com/Wikiki/bulma-divider/issues/9) [#10](https://github.com/Wikiki/bulma-divider/issues/10)
+
+
+
 <a name="1.0.4"></a>
 ## [1.0.4](https://github.com/Wikiki/bulma-divider/compare/1.0.3...1.0.4) (2018-05-11)
 
