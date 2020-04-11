@@ -1,3 +1,5 @@
+## Package is abandoned in favor of http://github.com/creativebulma/bulma-divider
+
 # bulma-divider
 Bulma's extension to easily display an horizontal or vertical divider
 (find all my bulma's extensions [here](https://wikiki.github.io/))
